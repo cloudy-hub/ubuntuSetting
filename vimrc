@@ -1,4 +1,5 @@
 set nocompatible
+set backspace=indent,eol,start
 syntax on
 set showmode 
 set showcmd
