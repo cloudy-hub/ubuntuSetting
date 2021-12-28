@@ -23,3 +23,4 @@ add this to master.
     - 推送到主线
     - 推送到分支
     - 再次推送到主线
+    - master 合并
