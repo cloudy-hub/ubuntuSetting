@@ -33,3 +33,4 @@ add this to master.
 >>>>>>> new-branch
 
 3. master 再提交
+4. +两个分支后，master提交
