@@ -33,4 +33,10 @@ add this to master.
 >>>>>>> new-branch
 
 3. master 再提交
+<<<<<<< HEAD
 4. +两个分支后，master提交
+=======
+
+4. branch-3 创建了
+    - branch-3 commit
+>>>>>>> branch-3
