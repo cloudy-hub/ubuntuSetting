@@ -11,3 +11,6 @@ add this bu github.com
 add this by vscode.
 
 >>>>>>> hujh
+
+
+add this to master.
