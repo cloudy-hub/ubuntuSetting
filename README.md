@@ -31,3 +31,5 @@ add this to master.
 2. 分支上创建
     - 1. 第一次合并分支
 >>>>>>> new-branch
+
+3. master 再提交
