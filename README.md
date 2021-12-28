@@ -34,9 +34,15 @@ add this to master.
 
 3. master 再提交
 <<<<<<< HEAD
+<<<<<<< HEAD
 4. +两个分支后，master提交
 =======
 
 4. branch-3 创建了
     - branch-3 commit
 >>>>>>> branch-3
+=======
+4. 创建了 branch-2
+    - branch-2 commit.
+    - branch-2 开始合并
+>>>>>>> branch-2
