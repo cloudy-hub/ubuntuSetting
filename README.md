@@ -23,3 +23,4 @@ add this to master.
     - 推送分支失败，retry
 
 2. 分支上创建
+    - 1. 第一次合并分支
