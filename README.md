@@ -21,3 +21,5 @@ add this to master.
     - 提交到主线
     - 创建新分支
     - 推送分支失败，retry
+
+2. 分支上创建
